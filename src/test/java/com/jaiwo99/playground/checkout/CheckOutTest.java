@@ -21,7 +21,6 @@ public class CheckOutTest {
         }
 
         return co.total();
-
     }
 
     @Test
